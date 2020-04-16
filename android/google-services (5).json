@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "529897340960",
+    "firebase_url": "https://kitchen-as.firebaseio.com",
+    "project_id": "kitchen-as",
+    "storage_bucket": "kitchen-as.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529897340960:android:fa6fd2a6a9b6cbe8b97c45",
+        "android_client_info": {
+          "package_name": "com.kitchen.khana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529897340960-cgfvofphdbsf32p4acthn6o7ngtoll6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATY4V9uReScOUW3O3ifoiTc2Y4be7SleE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529897340960-cgfvofphdbsf32p4acthn6o7ngtoll6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
